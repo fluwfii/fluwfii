@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/lilekitty">
-    <img src="https://komarev.com/ghpvc/?username=lilekitty&style=flat-square&color=blue" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=fluwfii&style=flat-square&color=blue" alt="Profile views" />
   </a>
-  <a href="https://github.com/lilekitty?tab=followers">
-    <img src="https://img.shields.io/github/followers/lilekitty?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <a href="https://github.com/fluwfii?tab=followers">
+    <img src="https://img.shields.io/github/followers/fluwfii?label=Followers&style=flat-square" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/lilekitty">
-    <img src="https://img.shields.io/github/stars/lilekitty?label=Stars&style=flat-square" alt="GitHub Stars" />
+  <a href="https://github.com/fluwfii">
+    <img src="https://img.shields.io/github/stars/fluwfii?label=Stars&style=flat-square" alt="GitHub Stars" />
   </a>
 </p>
 
